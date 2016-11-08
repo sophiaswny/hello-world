@@ -2,4 +2,4 @@
 Just another repository
 Hello!
 
-Everyone else is already taken
+Be yourself. Everyone else is already taken
