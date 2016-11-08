@@ -1,5 +1,5 @@
-# hello-world
+# hello-sky
 Just another repository
 Hello!
 
-This is a computer being controlled by a person, soon that will all change
+Everyone else is already taken
